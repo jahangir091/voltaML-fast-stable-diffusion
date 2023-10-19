@@ -8,6 +8,12 @@
             "example_image_url": "https://huggingface.co/Linaqruf/anything-v3.0/resolve/main/1girl.png"
         },
         {
+            "name": "Drream like photoreal-2.0",
+            "huggingface_id": "dreamlike-art/dreamlike-photoreal-2.0",
+            "huggingface_url": "https://huggingface.co/dreamlike-art/dreamlike-photoreal-2.0",
+            "example_image_url": "https://huggingface.co/Linaqruf/anything-v3.0/resolve/main/1girl.png"
+        },
+        {
             "name": "Anything V4.5 + VAE",
             "huggingface_id": "Azher/Anything-v4.5-vae-fp16-diffuser",
             "huggingface_url": "https://huggingface.co/Azher/Anything-v4.5-vae-fp16-diffuser",
