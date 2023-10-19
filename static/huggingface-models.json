@@ -8,6 +8,12 @@
             "example_image_url": "https://huggingface.co/Linaqruf/anything-v3.0/resolve/main/1girl.png"
         },
         {
+            "name": "EpicMixVirtualRealismv6",
+            "huggingface_id": "sd-dreambooth-library/EpicMixVirtualRealismv6",
+            "huggingface_url": "https://huggingface.co/sd-dreambooth-library/EpicMixVirtualRealismv6",
+            "example_image_url": "https://huggingface.co/Linaqruf/anything-v3.0/resolve/main/1girl.png"
+        },
+        {
             "name": "Drream like photoreal-2.0",
             "huggingface_id": "dreamlike-art/dreamlike-photoreal-2.0",
             "huggingface_url": "https://huggingface.co/dreamlike-art/dreamlike-photoreal-2.0",
