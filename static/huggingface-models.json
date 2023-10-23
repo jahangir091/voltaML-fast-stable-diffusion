@@ -127,6 +127,12 @@
             "huggingface_id": "nitrosocke/redshift-diffusion",
             "huggingface_url": "https://huggingface.co/nitrosocke/redshift-diffusion",
             "example_image_url": "https://huggingface.co/nitrosocke/redshift-diffusion/resolve/main/images/redshift-diffusion-samples-01s.jpg"
+        },
+        {
+            "name": "Stable diffusion sdxl base-1.0",
+            "huggingface_id": "stabilityai/stable-diffusion-xl-base-1.0",
+            "huggingface_url": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0",
+            "example_image_url": "https://huggingface.co/nitrosocke/redshift-diffusion/resolve/main/images/redshift-diffusion-samples-01s.jpg"
         }
     ]
 }
