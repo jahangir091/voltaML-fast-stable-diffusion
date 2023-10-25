@@ -145,6 +145,12 @@
             "huggingface_id": "madebyollin/sdxl-vae-fp16-fix",
             "huggingface_url": "https://huggingface.co/madebyollin/sdxl-vae-fp16-fix/tree/main",
             "example_image_url": "https://huggingface.co/nitrosocke/redshift-diffusion/resolve/main/images/redshift-diffusion-samples-01s.jpg"
+        },
+        {
+            "name": "stable-diffusion-xl-1.0-inpainting-0.1",
+            "huggingface_id": "diffusers/stable-diffusion-xl-1.0-inpainting-0.1",
+            "huggingface_url": "https://huggingface.co/diffusers/stable-diffusion-xl-1.0-inpainting-0.1",
+            "example_image_url": "https://huggingface.co/nitrosocke/redshift-diffusion/resolve/main/images/redshift-diffusion-samples-01s.jpg"
         }
     ]
 }
