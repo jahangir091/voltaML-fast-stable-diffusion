@@ -152,11 +152,16 @@
             "huggingface_url": "https://huggingface.co/diffusers/stable-diffusion-xl-1.0-inpainting-0.1",
             "example_image_url": "https://huggingface.co/nitrosocke/redshift-diffusion/resolve/main/images/redshift-diffusion-samples-01s.jpg"
         },
-
         {
             "name": "OrangeMixs-base",
             "huggingface_id": "WarriorMama777/OrangeMixs",
             "huggingface_url": "https://huggingface.co/WarriorMama777/OrangeMixs",
+            "example_image_url": "https://huggingface.co/nitrosocke/redshift-diffusion/resolve/main/images/redshift-diffusion-samples-01s.jpg"
+        },
+        {
+            "name": "stable-diffusion-xl-1.0-inpainting-0.1",
+            "huggingface_id": "diffusers/stable-diffusion-xl-1.0-inpainting-0.1",
+            "huggingface_url": "https://huggingface.co/diffusers/stable-diffusion-xl-1.0-inpainting-0.1",
             "example_image_url": "https://huggingface.co/nitrosocke/redshift-diffusion/resolve/main/images/redshift-diffusion-samples-01s.jpg"
         }
     ]
