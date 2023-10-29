@@ -169,6 +169,12 @@
             "huggingface_id": "DeepFloyd/IF-I-XL-v1.0",
             "huggingface_url": "https://huggingface.co/DeepFloyd/IF-I-XL-v1.0",
             "example_image_url": "https://huggingface.co/nitrosocke/redshift-diffusion/resolve/main/images/redshift-diffusion-samples-01s.jpg"
+        },
+        {
+            "name": "kakaobrain-karlo-v1-alpha",
+            "huggingface_id": "kakaobrain/karlo-v1-alpha",
+            "huggingface_url": "https://huggingface.co/DeepFloyd/IF-I-XL-v1.0",
+            "example_image_url": "https://huggingface.co/kakaobrain/karlo-v1-alpha?text=Produce+an+image+of+a+boy+with+a+thoughtful%2C+contemplative+gaze+and+a+book+in+his+hands.+His+tousled%2C+light-brown+hair+should+give+him+a+boy-next-door+charm%2C+reflecting+his+intellectual+curiosity"
         }
     ]
 }
