@@ -165,9 +165,9 @@
             "example_image_url": "https://huggingface.co/nitrosocke/redshift-diffusion/resolve/main/images/redshift-diffusion-samples-01s.jpg"
         },
         {
-            "name": "google-ddpm-ema-church-256",
-            "huggingface_id": "google/ddpm-ema-church-256",
-            "huggingface_url": "https://huggingface.co/google/ddpm-ema-church-256",
+            "name": "DeepFloyd-IF-I-XL-v1.0",
+            "huggingface_id": "DeepFloyd/IF-I-XL-v1.0",
+            "huggingface_url": "https://huggingface.co/DeepFloyd/IF-I-XL-v1.0",
             "example_image_url": "https://huggingface.co/nitrosocke/redshift-diffusion/resolve/main/images/redshift-diffusion-samples-01s.jpg"
         }
     ]
